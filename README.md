@@ -1,4 +1,4 @@
-# myportfolio-analytics-project
+# powerbi-hr-dashboard
 Data Analytics Portfolio
 Welcome to my Data Analytics Portfolio.
 I am learning and building projects in:
