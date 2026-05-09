@@ -1,4 +1,4 @@
-# powerbi-hr-dashboard
+# dashboard-powerbi-hr
 Power BI HR Attrition Dashboard analyzing employee turnover, workforce trends, and HR insights through interactive visualizations
 <br>
 Author - Jyoti Nayak
